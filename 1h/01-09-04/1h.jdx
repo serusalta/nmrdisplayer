@@ -1,6 +1,7 @@
 ##TITLE= spectra-data from xy
 ##JCAMP-DX= 5.00	$$Cheminfo tools 3.3.3
 ##OWNER= 
+##ORIGIN=new predictor
 ##DATA TYPE= NMR SPECTRUM
 ##DATA CLASS= XYDATA
 ##.OBSERVE FREQUENCY= 100
