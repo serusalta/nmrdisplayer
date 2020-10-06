@@ -205,7 +205,7 @@
     },
     {
     "file": "./01-09-02/1h.json",
-    "title": "δ 0.90 (3H, t, J = 7.0 Hz), 1.57 (2H, sext, J = 7.0 Hz), 2.45 (2H, t, J = 7.0 Hz), 3.73 (3H, s), 6.88 (2H, ddd, J = 8.8, 2.2, 0.5 Hz), 7.00 (2H, ddd, J = 8.8, 1.0, 0.5 Hz).",
+    "title": "δ 0.90 (3H, t, J = 7.0 Hz), 1.57 (2H, sext, J = 7.0 Hz), 2.45 (2H, t, J = 7.0 Hz), 3.73 (3H, s), 6.88 (2H, d, J = 8.8 Hz), 7.00 (2H, d, J = 8.8 Hz).",
     "view": "Exercise"
     },
     {
@@ -215,6 +215,11 @@
     },
     {
     "file": "./01-09-04/1h.json",
+    "title": "δ 1.16 (6H, d, J = 6.7 Hz), 2.84 (1H, sept, J = 6.7 Hz), 3.65 (2H, s), 7.31 (5H, s ensanchado).",
+    "view": "Exercise"
+    },
+    {
+    "file": "./01-09-05/1h.json",
     "title": "δ 2.44 (3H, s), 3.62 (2H, s), 7.30 (5H, s ensanchado).",
     "view": "Exercise"
     }
