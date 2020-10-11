@@ -185,7 +185,7 @@
     },
     {
     "file": "./01-08-16/1h.json",
-    "title": "δ 3.81 (3H, s), 7.52 (3H, m), 8.03 (2H, m)",
+    "title": "δ 3.78 (3H, s), 7.03 (2H, d, J = 8.3 Hz), 7.96 (2H, d, J = 8.3 Hz), 9.91 (1H, s).",
     "view": "Exercise"
     },
     {
@@ -236,7 +236,7 @@
                 ]
   },
   {
-    "groupName": "Problemas 2 (13C) ",
+    "groupName": "Problemas 2 (13C)",
     "children": [
     {
     "file": "./02-02-01/1h.json",
