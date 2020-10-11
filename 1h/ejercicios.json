@@ -1,6 +1,6 @@
 [
   {
-    "groupName": "Problema 1",
+    "groupName": "Problema 1 (1H)",
     "children": [
     {
     "file": "./01-01-01/1h.json",
@@ -16,7 +16,7 @@
   },
   
   {
-    "groupName": "Problema 2",
+    "groupName": "Problema 2 (1H)",
     "children": [
     {
     "file": "./01-02-01/1h.json",
@@ -41,7 +41,7 @@
                 ]
   },
   {
-    "groupName": "Problema 3",
+    "groupName": "Problema 3 (1H)",
     "children": [  
     {
     "file": "./01-03-01/1h.json",
@@ -51,7 +51,7 @@
                 ]
   },
   {
-    "groupName": "Problema 4",
+    "groupName": "Problema 4 (1H)",
     "children": [
     {
     "file": "./01-04-01/1h.json",
@@ -66,7 +66,7 @@
                 ]
   },
   {
-    "groupName": "Problema 5",
+    "groupName": "Problema 5 (1H)",
     "children": [
     {
     "file": "./01-05-01/1h.json",
@@ -86,7 +86,7 @@
                 ]
   },
   {
-    "groupName": "Problema 6",
+    "groupName": "Problema 6 (1H)",
     "children": [
     {
     "file": "./01-06-01/1h.json",
@@ -96,7 +96,7 @@
                 ]
   },
   {
-    "groupName": "Problema 7",
+    "groupName": "Problema 7 (1H)",
     "children": [
     {
     "file": "./01-07-01/1h.json",
@@ -106,7 +106,7 @@
                 ]
   },
   {
-    "groupName": "Problema 8",
+    "groupName": "Problema 8 (1H)",
     "children": [
     {
     "file": "./01-08-01/1h.json",
@@ -120,7 +120,7 @@
     },
     {
     "file": "./01-08-03/1h.json",
-    "title": "δ 1.00 (3H, t, J = 7.4 Hz), 2.12 (3H, s), 2.43 (2H, q, J = 7.4 Hz)",
+    "title": "δ 1.16 (3H, t, J = 7.1 Hz), 2.04 (3H, s), 4.10 (2H, q, J = 7.1 Hz).",
     "view": "Exercise"
     },
     {
@@ -224,5 +224,25 @@
     "view": "Exercise"
     }
                ]
+  },
+  {
+    "groupName": "Problemas 1 (13C)",
+    "children": [
+    {
+    "file": "./02-01-01/1h.json",
+    "title": "δ 6.01 (1H, dd, J = 11.1, 1.4 Hz), 6.27 (1H, dd, J = 16.5, 1.4 Hz), 6.97 (1H, dd, J = 16.5, 11.1 Hz).",
+    "view": "Exercise"
+    }
+                ]
+  },
+  {
+    "groupName": "Problemas 2 (13C)",
+    "children": [
+    {
+    "file": "./02-02-01/1h.json",
+    "title": " δ 1.26 (6H, t, J = 7.0 Hz), 3.62 (4H, q, J = 7.0 Hz), 5.07 (1H, d, J = 3.7 Hz), 5.62 (1H, d, J = 3.7 Hz).",
+    "view": "Exercise"
+    }
+                ]
   }
 ]

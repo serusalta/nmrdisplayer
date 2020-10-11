@@ -2,14 +2,25 @@
   "spectra": [
     {
       "data": {},
-      "id": "0abwvynpah97",
-      "source": {
+        "source": {
         "original": [],
         "jcamp": null,
         "jcampURL": "./01-08-13/1h.jdx"
       },
       "display": {
         "name": "1H RMN",
+        "color": "#C10020"
+      }
+    },
+    {
+      "data": {},
+        "source": {
+        "original": [],
+        "jcamp": null,
+        "jcampURL": "./01-08-13/13c.jdx"
+      },
+      "display": {
+        "name": "13C RMN",
         "color": "#C10020"
       }
     }

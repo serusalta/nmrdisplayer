@@ -2,14 +2,25 @@
   "spectra": [
     {
       "data": {},
-      "id": "0abwvynpah97",
-      "source": {
+        "source": {
         "original": [],
         "jcamp": null,
         "jcampURL": "./01-09-03/1h.jdx"
       },
       "display": {
-        "name": "Exercise 34",
+        "name": "1H RMN",
+        "color": "#C10020"
+      }
+    },
+    {
+      "data": {},
+        "source": {
+        "original": [],
+        "jcamp": null,
+        "jcampURL": "./01-09-03/13c.jdx"
+      },
+      "display": {
+        "name": "13C RMN",
         "color": "#C10020"
       }
     }
